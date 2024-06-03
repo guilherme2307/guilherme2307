@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🏎️
 
-<!--
-**guilherme2307/guilherme2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Guilherme 
 
-Here are some ideas to get you started:
+- Estou Estudando no Alura
+- Estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha arganização e compatilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### vocé entrar contato comigo 📫
+
+guilhermeemail.2020@gmail.com
+
+@guilherme_jdm_
+
+![](https://media1.tenor.com/m/E_p0yxj0kogAAAAC/senna-mclaren.gif)
